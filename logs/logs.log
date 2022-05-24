@@ -1,0 +1,206 @@
+16:52:34.221 [main] ERROR resources.base - Driver is initialized
+16:52:43.048 [main] ERROR resources.base - Navigated to Home page
+16:52:44.899 [main] ERROR resources.base - Driver is initialized
+16:52:50.951 [main] ERROR resources.base - Navigated to Home page
+16:52:52.943 [main] ERROR resources.base - Driver is initialized
+16:52:57.702 [main] ERROR resources.base - Navigated to Home page
+16:53:03.217 [main] FATAL resources.base - Non Restricted User
+16:53:06.732 [main] ERROR resources.base - Driver is initialized
+16:53:10.480 [main] ERROR resources.base - Navigated to Home page
+16:53:14.740 [main] FATAL resources.base - Restricted User
+16:53:16.241 [main] ERROR resources.base - Navigation bar is displayed
+16:53:16.311 [main] ERROR resources.base - Successfully validated title
+00:10:30.195 [main] ERROR resources.base - Driver is initialized
+00:10:33.209 [main] ERROR resources.base - Navigated to Home page
+00:10:38.160 [main] FATAL resources.base - Non Restricted User
+00:10:41.532 [main] ERROR resources.base - Driver is initialized
+00:10:44.477 [main] ERROR resources.base - Navigated to Home page
+00:10:49.478 [main] FATAL resources.base - Restricted User
+00:10:52.837 [main] ERROR resources.base - Driver is initialized
+00:10:55.518 [main] ERROR resources.base - Navigated to Home page
+00:10:55.588 [main] ERROR resources.base - Navigation bar is displayed
+00:10:57.728 [main] ERROR resources.base - Driver is initialized
+00:11:00.314 [main] ERROR resources.base - Navigated to Home page
+00:11:00.365 [main] ERROR resources.base - Successfully validated title
+00:11:32.986 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+00:11:33.015 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+00:11:33.036 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+00:11:40.030 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+00:11:40.043 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+00:11:40.701 [TestNG-tests-3] ERROR resources.base - Successfully validated title
+00:11:41.790 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+00:11:42.125 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+00:11:46.370 [TestNG-tests-1] FATAL resources.base - Non Restricted User
+00:11:49.103 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+00:11:51.255 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+00:11:55.564 [TestNG-tests-1] FATAL resources.base - Restricted User
+00:24:50.464 [main] ERROR resources.base - Driver is initialized
+00:24:53.282 [main] ERROR resources.base - Navigated to Home page
+00:24:53.368 [main] ERROR resources.base - Successfully validated title
+10:23:39.875 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+10:23:39.882 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+10:23:40.008 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+10:23:47.681 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+10:23:47.878 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+10:23:49.328 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+10:23:49.624 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+10:23:52.884 [TestNG-tests-1] FATAL resources.base - Non Restricted User
+10:23:55.254 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+10:23:59.000 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+10:24:03.286 [TestNG-tests-1] FATAL resources.base - Restricted User
+10:27:03.287 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+10:27:03.326 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+10:27:03.388 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+10:27:10.456 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+10:27:11.853 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+10:27:11.950 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+10:27:12.808 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+10:27:17.548 [TestNG-tests-1] FATAL resources.base - Non Restricted User
+10:27:19.897 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+10:27:23.421 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+10:27:27.725 [TestNG-tests-1] FATAL resources.base - Restricted User
+10:29:29.879 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+10:29:29.936 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+10:29:30.025 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+10:29:35.871 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+10:29:36.108 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+10:29:36.390 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+10:29:37.757 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+10:29:42.930 [TestNG-tests-1] FATAL resources.base - Non Restricted User
+10:29:45.013 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+10:29:48.674 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+10:29:52.966 [TestNG-tests-1] FATAL resources.base - Restricted User
+10:52:05.045 [main] ERROR resources.base - Driver is initialized
+10:52:08.653 [main] ERROR resources.base - Navigated to Home page
+10:52:13.668 [main] FATAL resources.base - Non Restricted User
+10:52:15.467 [main] ERROR resources.base - Driver is initialized
+10:52:20.972 [main] ERROR resources.base - Navigated to Home page
+10:52:26.027 [main] FATAL resources.base - Restricted User
+10:52:28.807 [main] ERROR resources.base - Driver is initialized
+10:52:32.381 [main] ERROR resources.base - Navigated to Home page
+10:52:32.479 [main] ERROR resources.base - Navigation bar is displayed
+10:52:34.598 [main] ERROR resources.base - Driver is initialized
+10:52:37.714 [main] ERROR resources.base - Navigated to Home page
+09:23:37.548 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+09:23:37.639 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+09:23:37.706 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+09:23:45.614 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+09:23:47.744 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+09:23:47.824 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+09:23:47.825 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+09:23:51.799 [TestNG-tests-1] FATAL resources.base - Non Restricted User
+09:23:54.003 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+09:23:57.585 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+09:24:01.662 [TestNG-tests-1] FATAL resources.base - Restricted User
+09:35:14.752 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+09:35:14.773 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+09:35:14.844 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+09:35:22.637 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+09:35:24.393 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+09:35:25.175 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+09:35:25.303 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+09:35:28.552 [TestNG-tests-1] FATAL resources.base - Non Restricted User
+09:35:30.732 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+09:35:33.898 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+09:35:38.277 [TestNG-tests-1] FATAL resources.base - Restricted User
+10:25:26.241 [main] ERROR resources.base - Driver is initialized
+10:25:30.504 [main] ERROR resources.base - Navigated to Home page
+10:25:34.953 [main] FATAL resources.base - Non Restricted User
+10:25:37.525 [main] ERROR resources.base - Driver is initialized
+10:25:41.437 [main] ERROR resources.base - Navigated to Home page
+10:25:45.683 [main] FATAL resources.base - Restricted User
+10:26:31.746 [main] ERROR resources.base - Driver is initialized
+10:26:36.076 [main] ERROR resources.base - Navigated to Home page
+10:26:40.374 [main] FATAL resources.base - Non Restricted User
+10:26:52.913 [main] ERROR resources.base - Driver is initialized
+10:26:56.888 [main] ERROR resources.base - Navigated to Home page
+10:27:00.889 [main] FATAL resources.base - Restricted User
+10:27:37.952 [main] ERROR resources.base - Driver is initialized
+10:27:42.157 [main] ERROR resources.base - Navigated to Home page
+10:27:46.635 [main] FATAL resources.base - Non Restricted User
+10:27:49.870 [main] ERROR resources.base - Driver is initialized
+10:27:54.156 [main] ERROR resources.base - Navigated to Home page
+10:27:58.947 [main] FATAL resources.base - Restricted User
+10:28:13.304 [main] ERROR resources.base - Driver is initialized
+10:28:16.566 [main] ERROR resources.base - Navigated to Home page
+10:28:20.718 [main] FATAL resources.base - Non Restricted User
+10:28:27.878 [main] ERROR resources.base - Driver is initialized
+10:28:31.705 [main] ERROR resources.base - Navigated to Home page
+10:28:36.720 [main] FATAL resources.base - Restricted User
+10:30:29.311 [main] ERROR resources.base - Driver is initialized
+10:30:33.811 [main] ERROR resources.base - Navigated to Home page
+10:30:38.568 [main] FATAL resources.base - Non Restricted User
+10:30:45.875 [main] ERROR resources.base - Driver is initialized
+10:30:47.229 [main] ERROR resources.base - Navigated to Home page
+10:31:00.363 [main] ERROR resources.base - Driver is initialized
+10:31:03.974 [main] ERROR resources.base - Navigated to Home page
+10:31:08.382 [main] FATAL resources.base - Non Restricted User
+10:31:15.439 [main] ERROR resources.base - Driver is initialized
+10:31:18.926 [main] ERROR resources.base - Navigated to Home page
+10:31:36.325 [main] ERROR resources.base - Driver is initialized
+10:31:40.129 [main] ERROR resources.base - Navigated to Home page
+10:31:44.728 [main] FATAL resources.base - Non Restricted User
+10:31:57.280 [main] ERROR resources.base - Driver is initialized
+10:32:01.794 [main] ERROR resources.base - Navigated to Home page
+10:32:06.084 [main] FATAL resources.base - Restricted User
+10:32:22.625 [main] ERROR resources.base - Driver is initialized
+10:32:26.201 [main] ERROR resources.base - Navigated to Home page
+10:32:30.559 [main] FATAL resources.base - Non Restricted User
+10:32:40.301 [main] ERROR resources.base - Driver is initialized
+10:32:42.332 [main] ERROR resources.base - Navigated to Home page
+10:32:59.153 [main] ERROR resources.base - Driver is initialized
+10:33:02.816 [main] ERROR resources.base - Navigated to Home page
+10:33:07.532 [main] FATAL resources.base - Non Restricted User
+10:33:13.320 [main] ERROR resources.base - Driver is initialized
+10:33:16.874 [main] ERROR resources.base - Navigated to Home page
+10:33:21.910 [main] FATAL resources.base - Restricted User
+10:33:43.714 [main] ERROR resources.base - Driver is initialized
+10:33:47.319 [main] ERROR resources.base - Navigated to Home page
+10:33:51.321 [main] FATAL resources.base - Non Restricted User
+10:33:55.132 [main] ERROR resources.base - Driver is initialized
+10:33:59.363 [main] ERROR resources.base - Navigated to Home page
+10:34:03.465 [main] FATAL resources.base - Restricted User
+10:34:18.134 [main] ERROR resources.base - Driver is initialized
+10:34:21.852 [main] ERROR resources.base - Navigated to Home page
+10:34:26.085 [main] FATAL resources.base - Non Restricted User
+10:34:28.603 [main] ERROR resources.base - Driver is initialized
+10:34:32.297 [main] ERROR resources.base - Navigated to Home page
+10:34:36.503 [main] FATAL resources.base - Restricted User
+10:35:04.963 [main] ERROR resources.base - Driver is initialized
+10:35:08.837 [main] ERROR resources.base - Navigated to Home page
+10:35:13.726 [main] FATAL resources.base - Non Restricted User
+10:46:45.113 [main] ERROR resources.base - Driver is initialized
+10:46:46.076 [main] ERROR resources.base - Navigated to Home page
+10:46:52.499 [main] ERROR resources.base - Driver is initialized
+11:05:43.892 [main] ERROR resources.base - Driver is initialized
+11:05:45.067 [main] ERROR resources.base - Navigated to Home page
+11:06:29.734 [main] ERROR resources.base - Driver is initialized
+11:06:31.450 [main] ERROR resources.base - Navigated to Home page
+11:10:35.560 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+11:10:35.603 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+11:10:35.974 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+11:10:43.321 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+11:10:43.885 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+11:10:44.831 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+11:10:46.760 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+11:10:52.302 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+11:10:56.546 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+11:11:01.429 [TestNG-tests-1] FATAL resources.base - Restricted User
+11:16:28.474 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+11:16:28.473 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+11:16:29.572 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+11:16:33.888 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+11:16:34.560 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+09:08:37.408 [main] ERROR resources.base - Driver is initialized
+09:08:41.232 [main] ERROR resources.base - Navigated to Home page
+09:09:02.182 [TestNG-tests-2] ERROR resources.base - Driver is initialized
+09:09:02.309 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+09:09:02.313 [TestNG-tests-3] ERROR resources.base - Driver is initialized
+09:09:09.361 [TestNG-tests-2] ERROR resources.base - Navigated to Home page
+09:09:09.735 [TestNG-tests-2] ERROR resources.base - Navigation bar is displayed
+09:09:10.072 [TestNG-tests-3] ERROR resources.base - Navigated to Home page
+09:09:10.457 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+09:09:14.655 [TestNG-tests-1] FATAL resources.base - Non Restricted User
+09:09:19.279 [TestNG-tests-1] ERROR resources.base - Driver is initialized
+09:09:23.234 [TestNG-tests-1] ERROR resources.base - Navigated to Home page
+09:09:27.781 [TestNG-tests-1] FATAL resources.base - Restricted User

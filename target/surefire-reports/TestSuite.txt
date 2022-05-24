@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 4, Errors: 0, Skipped: 5, Time elapsed: 10.49 s <<< FAILURE! - in TestSuite
+academy.validateTitle.initialize  Time elapsed: 6.23 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "this.prop" is null
+	at academy.validateTitle.initialize(validateTitle.java:26)
+
+academy.validateNavigationBar.initialize  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "this.prop" is null
+	at academy.validateNavigationBar.initialize(validateNavigationBar.java:25)
+
+academy.HomePageTest.basePageNavigation[nonrestricteduser@abc.com, 11111, Non Restricted User](1)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "this.prop" is null
+	at academy.HomePageTest.basePageNavigation(HomePageTest.java:33)
+
+academy.HomePageTest.basePageNavigation[restricteduser@abc.com, 22222, Restricted User](2)  Time elapsed: 0.148 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "this.prop" is null
+	at academy.HomePageTest.basePageNavigation(HomePageTest.java:33)
+
